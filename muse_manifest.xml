@@ -1,0 +1,158 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="riselpu.ga,riselpu.in,riselpu.com,rise-lpu.github.io/IMPULSE2.0" resolutions="1x" timestamp="1575209026513">
+  <folder name="css">
+    <file name="site_global.css" crc="458644619"/>
+    <file name="index.css" crc="4146583150" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u1733.php" crc="181532755" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="016-clapperboard.png" crc="357677883" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="quill-drawing-a-line.png" crc="4286554483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo-camera.png" crc="364992223" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="deepak agrawal-crop-u2230.jpg" crc="493726962" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="suhith komal-crop-u3093.jpg" crc="4247765174" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aaron_fernandez-crop-u3113.jpg" crc="419894059" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20191130_152901-crop-u3302.jpg" crc="4113759662" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hamzaprofile.jpg" crc="305199535" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_gurbir_dhaliwal_-crop-u3329.jpg" crc="256546106" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="o6x2th0.jpg" crc="339363697" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="631946-po9cyr-125.jpg" crc="431971399" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="28.jpg" crc="51849346" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rise_logo_4k_for_jersey_logo.png" crc="4206023322" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sean-martin-bmhtq4jdjtg-unsplash-u2078-fr.png" crc="4190316034" ref="index"/>
+    <file name="001-facebook.png" crc="4274995599" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="008-youtube.png" crc="427938086" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="011-instagram.png" crc="4180220468" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="022-down arrow.png" crc="4079277034" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1804-u2227-fr.png" crc="38414560" ref="index"/>
+    <file name="027-linkedin.png" crc="64555143" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="036-facebook.png" crc="316508654" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="029-instagram.png" crc="418147593" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="008-twitter.png" crc="3773160857" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="005-whatsapp.png" crc="3779650239" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0201-crop-u4360.jpg" crc="432014452" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="dsc_2352-crop-u4380.jpg" crc="4251623048" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_3238-crop-u4400.jpg" crc="360137590" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc03514-crop-u4420.jpg" crc="3779220740" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0355-crop-u4440.jpg" crc="197348807" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_9888-crop-u4460.jpg" crc="77960595" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190727-wa0053-crop-u4480.jpg" crc="93152503" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0201-crop-u4366.jpg" crc="406983289" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_2352-crop-u4386.jpg" crc="4214317545" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_3238-crop-u4406.jpg" crc="356082336" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc03514-crop-u4426.jpg" crc="4077986696" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0355-crop-u4446.jpg" crc="81162895" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_9888-crop-u4466.jpg" crc="474079218" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190727-wa0053-crop-u4486.jpg" crc="338836870" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="204398-oz3p4a-964-u2393-fr.png" crc="4012842670" ref="index"/>
+    <file name="heart.png" crc="117585526" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="270252164" seo="true" mt="1575208604820" redirect="true"/>
+</manifest>
